@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Coding_Assignments"
+		},
+		{
+			"path": "Labs"
+		},
+		{
+			"path": "Notes"
+		},
+		{
+			"path": "Sandboxes/Git-learning-Pt2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Front End Coding Bootcamp",
+		"git.ignoreLimitWarning": true
+	}
+}

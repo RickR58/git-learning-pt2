@@ -1,0 +1,9 @@
+#box-model {
+    padding: 30px;
+    border-style: dashed;
+    border-width: 10px;
+    border-radius: 10px;
+    border-color: rgb(50, 163, 40);
+    margin: 50px;
+    background-color:rgb(255, 136, 0)
+}
